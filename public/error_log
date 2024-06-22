@@ -1,1 +1,0 @@
-[22-Jun-2024 10:15:06 UTC] [error] Uncaught PHP Exception Symfony\Component\HttpKernel\Exception\NotFoundHttpException: "No route found for "GET https://api.edugaro.factoriadigitalpremium.es/public/index.php/" (from "https://api.edugaro.factoriadigitalpremium.es/")" at RouterListener.php line 127
