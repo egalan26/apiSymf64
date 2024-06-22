@@ -8,3 +8,10 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+
+### factoria digital ###
+error_log
+public/error_log
+.well-known
+index.php
